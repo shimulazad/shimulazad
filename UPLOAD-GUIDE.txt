@@ -1,0 +1,23 @@
+# GitHub profile README package
+
+## Upload
+1. Create a **public** repository named exactly `shimulazad`.
+2. Add `README.md` to the repository root and paste the contents of this package's `README.md`.
+3. Commit the file.
+
+## Enable the contribution snake animation
+1. In the same repository, create `.github/workflows/snake.yml`.
+2. Paste the contents of `.github/workflows/snake.yml`.
+3. Open the repository's **Actions** tab and enable workflows if prompted.
+4. Run **Generate Contribution Snake** once using **Run workflow**.
+5. After the workflow succeeds, add this image inside the README (for example below GitHub Analytics):
+
+   `![Contribution Snake](https://raw.githubusercontent.com/shimulazad/shimulazad/output/github-contribution-grid-snake.svg)`
+
+The snake will update on its scheduled run. The first run may take a minute or two.
+
+## Before publishing
+- Add your real LinkedIn profile URL if you want it shown. The current LinkedIn badge is a generic placeholder.
+- Do not claim a professional one-year job history unless you actually held a relevant role for one year. If you have one year of real networking/Linux work experience, add the employer, role, dates, and responsibilities accurately.
+- The project list is a roadmap. Create each repository and upload tested lab files before presenting it as completed work.
+- GitHub stats, typing SVG, badges, and activity graph are third-party services. Their availability and appearance can change.
